@@ -3,3 +3,11 @@ print('hello', 'everyone')
 print('hello'+'everyone')
 print('hello', end='')
 print('test')
+/////////////
+a=123
+
+b='hello'
+
+print(a, b)
+
+print(a, 456, b, 'world')
